@@ -1,0 +1,4 @@
+1|Screen Replacement|150.00|1
+2|Battery Replacement|100.00|1
+3|Charging Port Repair|85.50|1
+4|Camera Repair|200.00|0
